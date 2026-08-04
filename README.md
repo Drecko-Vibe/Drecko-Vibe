@@ -34,8 +34,8 @@ Centro de comando inteligente criado para otimizar o fluxo de trabalho de suport
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/derick-elberhardt-236a6028b/)
-- **E-mail:** [seu-email@dominio.com](mailto:derickdelberhardt@gmail.com)
+- **LinkedIn:** [[linkedin.com/in/seu-perfil](https://www.linkedin.com/in/derick-elberhardt-236a6028b/)](https://www.linkedin.com/in/derick-elberhardt-236a6028b/)
+- **E-mail:** [derickdelberhardt@gmail.com](mailto:derickdelberhardt@gmail.com)
 
 <div align="right">
   <i>"Transformando desafios operacionais em soluções tecnológicas automatizadas."</i>
